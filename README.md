@@ -44,15 +44,15 @@ Here are some of the projects I'm proud of:
 
 | Project | Description | Technologies Used |
 |---|---|---|
-| [cite_start]**Arcanus the Wise AI Voice Assistant** [cite: 30] | [cite_start]A conversational AI with multimodal services for speech, text, and persona traits, integrated with real-time search capabilities[cite: 32]. [cite_start]Deployed for scalable, production-ready performance[cite: 33]. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
-| [cite_start]**Credit Card Fraud Detection** [cite: 23] | [cite_start]Built and deployed a system using fine-tuned Random Forest and deep learning models to achieve 94% accuracy in detecting fraudulent transactions[cite: 24, 25]. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
-| [cite_start]**Automated Workflow Orchestrator** [cite: 26] | [cite_start]Designed a suite of automated workflows using n8n to connect disparate apps and streamline tasks like data extraction and AI-driven content transformation[cite: 27, 28]. | ![n8n](https://img.shields.io/badge/n8n-12B57F?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![API](https://img.shields.io/badge/API-2F855A?style=for-the-badge) |
+| **Arcanus the Wise AI Voice Assistant** | [cite_start]A conversational AI with multimodal services for speech, text, and persona traits, integrated with real-time search capabilities. Deployed for scalable, production-ready performance. | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) |
+|**Credit Card Fraud Detection**  | Built and deployed a system using fine-tuned Random Forest and deep learning models to achieve 94% accuracy in detecting fraudulent transactions[cite: 24, 25]. | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) |
+|**Automated Workflow Orchestrator** | [cite_start]Designed a suite of automated workflows using n8n to connect disparate apps and streamline tasks like data extraction and AI-driven content transformation. | ![n8n](https://img.shields.io/badge/n8n-12B57F?style=for-the-badge&logo=n8n&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white) ![API](https://img.shields.io/badge/API-2F855A?style=for-the-badge) |
 
 ---
 
 ### 💼 Professional Experience
 
-[cite_start]**Machine Learning Intern** @ [Codec Technologies](https://www.linkedin.com/company/codec-technologies-in) (_May 2025 - June 2025_) [cite: 16, 17, 18]
-- [cite_start]Developed and fine-tuned AI/ML algorithms, including regression, classification, and CNNs[cite: 19].
-- [cite_start]Automated feature engineering pipelines, which reduced data preprocessing time by 30%[cite: 20].
-- [cite_start]Collaborated with product and backend teams to successfully deploy AI-driven microservices into production[cite: 21].
+**Machine Learning Intern** @ [Codec Technologies](https://www.linkedin.com/company/codec-technologies-in) (_May 2025 - June 2025_)
+- Developed and fine-tuned AI/ML algorithms, including regression, classification, and CNNs.
+- Automated feature engineering pipelines, which reduced data preprocessing time by 30%.
+- Collaborated with product and backend teams to successfully deploy AI-driven microservices into production.
