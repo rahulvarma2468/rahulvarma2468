@@ -3,7 +3,7 @@
 <a href="https://linkedin.com/in/rahul-varma-mudunuru-a47102312" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:mudunururahulvarma@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
 
-[cite_start]I am a detail-oriented and motivated final-year Computer Science student specializing in Artificial Intelligence and Machine Learning[cite: 6]. [cite_start]I have a proven ability to develop, train, and deploy machine learning models to solve real-world problems[cite: 7]. [cite_start]I'm passionate about leveraging my skills in data analysis, process automation, and software development to create impactful technological solutions[cite: 8].
+I am a detail-oriented and motivated final-year Computer Science student specializing in Artificial Intelligence and Machine Learning. I have a proven ability to develop, train, and deploy machine learning models to solve real-world problems. I'm passionate about leveraging my skills in data analysis, process automation, and software development to create impactful technological solutions.
 
 ---
 
