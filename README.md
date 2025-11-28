@@ -12,14 +12,14 @@ I am a detail-oriented and motivated final-year Computer Science student special
 This dashboard provides a real-time overview of my coding activity and language stats.
 
 <p align="center">
-  <a href="https://github.com/mohangolakoti">
-    <img src="https://github-readme-stats.vercel.app/api?username=mohangolakoti&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats"/>
+  <a href="https://github.com/cstipkovic">
+    <img src="https://github-readme-stats.vercel.app/api?username=cstipkovic&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats"/>
   </a>
-  <a href="https://github.com/mohangolakoti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohangolakoti&layout=compact&theme=radical" alt="Top Languages"/>
+  <a href="https://github.com/cstipkovic">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cstipkovic&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/mohangolakoti">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohangolakoti&theme=radical" alt="GitHub Streak" />
+  <a href="https://github.com/cstipkovic">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=cstipkovic&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
