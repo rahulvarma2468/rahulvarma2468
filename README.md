@@ -12,13 +12,13 @@ I am a detail-oriented and motivated final-year Computer Science student special
 This dashboard provides a real-time overview of my coding activity and language stats.
 
 <p align="center">
-  <a href="https://github.com/rahulvarma2468">
+  <a href="https://github.com/mohangolakoti">
     <img src="https://github-readme-stats.vercel.app/api?username=rahulvarma2468&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats"/>
   </a>
-  <a href="https://github.com/rahulvarma2468">
+  <a href="https://github.com/mohangolakoti">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvarma2468&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
-  <a href="https://github.com/rahulvarma2468">
+  <a href="https://github.com/mohangolakoti">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvarma2468&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
