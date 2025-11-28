@@ -13,13 +13,13 @@ This dashboard provides a real-time overview of my coding activity and language 
 
 <p align="center">
   <a href="https://github.com/mohangolakoti">
-    <img src="https://github-readme-stats.vercel.app/api?username=rahulvarma2468&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=mohangolakoti&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Rahul's GitHub Stats"/>
   </a>
   <a href="https://github.com/mohangolakoti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulvarma2468&layout=compact&theme=radical" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohangolakoti&layout=compact&theme=radical" alt="Top Languages"/>
   </a>
   <a href="https://github.com/mohangolakoti">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulvarma2468&theme=radical" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohangolakoti&theme=radical" alt="GitHub Streak" />
   </a>
 </p>
 
